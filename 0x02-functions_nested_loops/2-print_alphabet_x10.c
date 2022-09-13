@@ -1,13 +1,14 @@
 #include "main.h"
 /**
- * print_alphabet - Check description
+ * print_alphabet_x10 - Check description
  *
  * Description - prints the alphabet in lower case followed by a new line
  * Return: nothing
  */
 
-void print_alphabet_x10(void);
-{
+void print_alphabet_x10(void)
+	{
+
 	char i;
 	int a;
 
@@ -17,4 +18,4 @@ void print_alphabet_x10(void);
 			_putchar(i);
 		_putchar('\n');
 	}
-}
+	}
