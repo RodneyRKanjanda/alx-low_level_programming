@@ -6,7 +6,7 @@
  * @b: input number b
  * @c: input number c
  *
- * Returns: largest number
+ * Return: largest number
  */
 
 int largest_number(int a, int b, int c)
